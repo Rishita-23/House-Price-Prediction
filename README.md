@@ -132,7 +132,7 @@ Metrics used:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/housing-price-prediction.git
+git clone https://github.com/Rishita-23/housing-price-prediction.git
 
 # Navigate to project folder
 cd housing-price-prediction
@@ -159,12 +159,6 @@ jupyter notebook
 
 Pull requests are welcome!
 If you find a bug or have suggestions, feel free to open an issue.
-
----
-
-## ⭐ Show Some Love
-
-If you liked this project, give it a ⭐ on GitHub!
 
 ---
 
