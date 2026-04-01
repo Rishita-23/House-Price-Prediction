@@ -4,6 +4,8 @@
 
 ## ✨ Overview
 
+Accurately predicting house prices helps buyers, sellers, and real estate platforms make informed decisions.
+
 This project explores a housing dataset through **Exploratory Data Analysis (EDA)** and builds **machine learning models** to predict house prices.
 
 From raw data → insights → feature engineering → modeling — this notebook walks through a complete **end-to-end data science workflow**.
